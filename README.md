@@ -1,6 +1,6 @@
 # start-project
 
-Boilerplate starter code for UI projects.
+Boilerplate starter code for Node.js UI projects.
 
 ## Includes
 - parcel
