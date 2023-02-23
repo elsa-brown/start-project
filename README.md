@@ -20,6 +20,7 @@ A very basic design system is defined in `src/styles/_system.sass`
 git clone git@github.com:elsa-brown/start-project.git <new-repo-name>
 cd <new-repo-name>
 git remote set-url origin <new-repo-URL>
+git push -u origin main
 
 npm install
 npm start
